@@ -5,6 +5,9 @@
 
 ![Gabrielly GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabrielly-Souza123&show_icons=true&theme=tokyonight)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabrielly-Souza123&layout=compact&theme=tokyonight)
+
+
 ### Essas são algumas tecnologias que conheço!
 <div style="display: inline_block"><br/>
     <img  src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
